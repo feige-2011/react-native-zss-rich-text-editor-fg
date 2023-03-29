@@ -4,7 +4,7 @@
     "type": "git",
     "url": "https://github.com/feige-2011/react-native-zss-rich-text-editor-fg.git"
   },
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "React Native Wrapper for ZSSRichTextEditor",
   "main": "index.js",
   "license": "SEE LICENSE IN LICENSE",
